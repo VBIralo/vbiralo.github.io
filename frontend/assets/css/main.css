@@ -2114,6 +2114,10 @@ button:active,
 	margin: 0;
 }
 
+#footer .love {
+	color: red;
+}
+
 #footer .copyright li {
 	display: inline-block;
 	line-height: 1em;
