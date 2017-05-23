@@ -1,6 +1,6 @@
 # vbiralo.github.io
 
-![](./Preview.jpg)
+![](./Preview.png)
 
 This is a simple and minimalistic site designed for developers who want to show their portfolio or something else: D
 
