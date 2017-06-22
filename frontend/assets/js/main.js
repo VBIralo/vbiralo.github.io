@@ -2,6 +2,17 @@
 	Prologue by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+
+Develop site by Vlad Biralo
+
+Contacts for cooperation:
+ -- vk.com/vbiralo
+ -- github.com/VBIralo
+ -- vbiralol@gmail.com
+
+🐴🐴🐴🐴🐴
+
 */
 
 (function($) {
