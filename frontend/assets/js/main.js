@@ -29,6 +29,10 @@ Contacts for cooperation:
 		$(this).removeClass("hover");
 	});
 
+	$(window).load(function () {
+			$(".load-container").delay(700).fadeOut(1000);
+		});
+
 	$(function () {
 
 		var $window = $(window),
